@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    text-decoration:none;
+
+}
+
+body{
+    background-color: teal;
+    
+}
+
+img {
+   display: block;
+   margin: 20px auto;
+
+}
